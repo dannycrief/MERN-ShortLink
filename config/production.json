@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "skozurak secret mern",
+  "mongoUri": "mongodb+srv://danny:211217ns@cluster0-tz65n.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl":  "http://localhost:5000"
+}
